@@ -1,1 +1,1 @@
-ulol
+console.log("mamamo");
