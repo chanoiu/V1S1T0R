@@ -1,4 +1,4 @@
-function generateToken(length = 32) {
+jfunction generateToken(length = 32) {
     const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     let token = '';
 
