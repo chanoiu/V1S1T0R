@@ -3,7 +3,7 @@ function generateToken(length = 32) {
     let token = '';
 
     for (let i = 0; i < length; i++) {
-        const randomIndex = Math.floor(Math.random() * characters.length);
+        const randomIndex  Math.floor(Math.random() * characters.length);
         token += characters[randomIndex];
     }
 
