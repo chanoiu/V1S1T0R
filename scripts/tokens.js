@@ -10,6 +10,5 @@ function generateToken(length = 32) {
     return token;
 }
 
-// Example usage:
 const token = generateToken();
 console.log('Generated Token:', token);
